@@ -6,4 +6,4 @@ metadata:
   namespace: fleet-local
 spec:
   # Everything from this repo will be ran in this cluster. You trust me right?
-  repo: "https://github.com/mverleun/fleet-test/demo-3/"
+  repo: "https://github.com/mverleun/fleet-test/"
