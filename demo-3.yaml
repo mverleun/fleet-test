@@ -7,3 +7,4 @@ metadata:
 spec:
   # Everything from this repo will be ran in this cluster. You trust me right?
   repo: "https://github.com/mverleun/fleet-test/"
+  branch: demo-3
